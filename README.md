@@ -102,10 +102,6 @@ When run on the original project setup, the Random Forest model produced approxi
 
 These values indicate that compositional descriptors contain substantial information about superconducting critical temperature, although the model should still be treated as a predictive screening tool rather than a mechanistic theory.
 
-## Example Portfolio Description
-
-> Built a materials informatics pipeline to predict superconducting critical temperature from compositional descriptors for more than 21,000 compounds. Applied PCA, K-Means clustering, and Random Forest regression, achieving R² ≈ 0.93 while identifying physical descriptors most associated with Tc variation.
-
 ## Future Extensions
 
 The following extensions would make the project even stronger:
